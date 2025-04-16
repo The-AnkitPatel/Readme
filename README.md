@@ -1,5 +1,5 @@
 # About Me:
-Ankit Kumar Patel | B.Tech CSE @ NITUK | Full-Stack (MERN) Developer | 2+ years teaching STEM | Passionate about bridging coding fundamentals with advanced projects. Active learner, creative problem-solver, and tech educator.
+Ankit Kumar Patel | B.Tech CSE @ NITUK | Full-Stack (MERN) Developer | Passionate about bridging coding fundamentals with advanced projects. Active learner, creative problem-solver.
 
 
 # 💻 Tech Stack:
